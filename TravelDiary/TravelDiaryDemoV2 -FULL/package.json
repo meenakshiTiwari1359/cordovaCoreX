@@ -8,7 +8,7 @@
     "angular": "^1.4.8",
     "body-parser": "^1.13.3",
     "express": "~4.9.2",
-    "mysql": "~2.5.0"
+    "mysql": "~2.17.1"
   },
   "devDependencies": {
     "chai": "^3.3.0",
